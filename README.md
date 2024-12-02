@@ -1,10 +1,18 @@
-# flutter_application
+# MOBILE APPLICATION
 
-A new Flutter project.
+Proyek Mobile ini adalah aplikasi mobile lintas platform yang dibuat menggunakan Flutter dengan bahasa Dart. Aplikasi ini memungkinkan pengguna akhir untuk berinteraksi dengan layanan yang disediakan oleh backend melalui API.
+
+Teknologi yang Digunakan
+
+Bahasa Pemrograman: Dart
+
+Framework: Flutter
+
+Database: Supabase (PostgreSQL)
+
+Lainnya: Supabase Dart SDK
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
